@@ -1,0 +1,42 @@
+body{
+background-color: aqua;
+}
+.container{
+    width: 200px;
+    height: 180px;
+    margin-left: 500px;
+    padding: 40px;
+    margin-top: 40px;
+    background-color: #555;
+    border: 20px;
+    border-radius: 300px;
+    text-align: center;
+    
+}
+.btn{
+    margin-left: 1px;
+    color: #fff;
+    padding: 10px;
+    border-radius: 6px;
+    border: 40px;
+    user-select: none;
+    cursor: pointer;
+}
+#iniciar{
+    background-color: seagreen;
+}
+#iniciar:hover{
+    background-color: green;
+}
+#pausar{
+    background-color: gray;
+}
+#pausar:hover{
+    background-color: black;
+}
+#limpar{
+    background-color: firebrick;
+}
+#limpar:hover{
+    background-color: red;
+}
